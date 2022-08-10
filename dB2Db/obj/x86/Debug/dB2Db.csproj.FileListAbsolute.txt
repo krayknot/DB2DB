@@ -1,0 +1,11 @@
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\bin\Debug\dB2Db.exe
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\bin\Debug\dB2Db.pdb
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.Form1.resources
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.frmSourceDestination.resources
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.Properties.Resources.resources
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.csproj.GenerateResource.Cache
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.exe
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.pdb
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.frmDBStructure.resources
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.frmProcessWindow.resources
+D:\Kshitij\Windows Applications\dB2Db\dB2Db\dB2Db\obj\x86\Debug\dB2Db.frmReport.resources
